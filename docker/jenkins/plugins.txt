@@ -1,0 +1,9 @@
+compact-columns:latest
+dark-theme:latest
+docker-workflow:latest
+extra-columns:latest
+github-branch-source:latest
+github-oauth:latest
+matrix-auth:latest
+pipeline-graph-view:latest
+remote-file:latest
