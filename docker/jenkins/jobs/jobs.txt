@@ -9,6 +9,7 @@ ros-kinetic-descartes
 ros-kinetic-dnb-msgs
 ros-kinetic-px4-msgs
 ros-kinetic-px4-ros-com
+ros-kinetic-ros-opcua-communication
 ros-melodic-depthcloud-encoder
 ros-melodic-descartes
 ros-melodic-dnb-msgs
@@ -20,3 +21,4 @@ ros-noetic-descartes
 ros-noetic-dnb-msgs
 ros-noetic-px4-msgs
 ros-noetic-px4-ros-com
+ros-noetic-ros-opcua-communication
