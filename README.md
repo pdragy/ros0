@@ -30,7 +30,7 @@ The top level build definitions for each project, one file per project.
 - jenkins: configuration for the build farm (see [docker/jenkins/README.md](./docker/jenkins/README.md)
 
 The ros0-build containers are also publicly available at Dockerhub, under the `roszero/ros` repository.
-```
+
 To install ros0 packages in a debian based Dockerfile, reference the build Dockerfile definition (docker/ros-build/Dockerfile):
 ```
 RUN echo "deb http://ros0-repo.s3.us-west-2.amazonaws.com/$(lsb_release -is | tr A-Z a-z) $(lsb_release -cs) main" > /etc/apt/sources.list.d/ros0.list
