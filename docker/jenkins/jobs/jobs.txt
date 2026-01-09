@@ -4,6 +4,7 @@ ros-humble-px4-offboard
 ros-hydro-descartes
 ros-indigo-abb-libegm
 ros-indigo-descartes
+ros-indigo-px4-msgs
 ros-jazzy-drone-pose
 ros-jazzy-px4-msgs
 ros-kinetic-abb-libegm
