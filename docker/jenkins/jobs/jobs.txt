@@ -20,6 +20,7 @@ ros-kinetic-ros-opcua-communication
 ros-melodic-abb-egm-rws-managers
 ros-melodic-abb-libegm
 ros-melodic-abb-librws
+ros-melodic-abb-robot-driver
 ros-melodic-depthcloud-encoder
 ros-melodic-descartes
 ros-melodic-dnb-msgs
@@ -30,6 +31,7 @@ ros-melodic-ros-opcua-communication
 ros-noetic-abb-egm-rws-managers
 ros-noetic-abb-libegm
 ros-noetic-abb-librws
+ros-noetic-abb-robot-driver
 ros-noetic-depthcloud-encoder
 ros-noetic-descartes
 ros-noetic-dnb-msgs
