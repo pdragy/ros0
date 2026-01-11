@@ -6,6 +6,7 @@ ros-indigo-abb-libegm
 ros-indigo-descartes
 ros-indigo-dnb-msgs
 ros-indigo-px4-msgs
+ros-indigo-ros-opcua-communication
 ros-jazzy-drone-pose
 ros-jazzy-px4-msgs
 ros-kinetic-abb-libegm
