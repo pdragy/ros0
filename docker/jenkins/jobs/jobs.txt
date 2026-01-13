@@ -1,3 +1,6 @@
+ros-humble-abb-egm-rws-managers
+ros-humble-abb-libegm
+ros-humble-abb-librws
 ros-humble-drone-pose
 ros-humble-px4-msgs
 ros-humble-px4-offboard
@@ -8,6 +11,9 @@ ros-indigo-dnb-msgs
 ros-indigo-kuka-experimental
 ros-indigo-px4-msgs
 ros-indigo-ros-opcua-communication
+ros-jazzy-abb-egm-rws-managers
+ros-jazzy-abb-libegm
+ros-jazzy-abb-librws
 ros-jazzy-drone-pose
 ros-jazzy-px4-msgs
 ros-kinetic-abb-libegm
