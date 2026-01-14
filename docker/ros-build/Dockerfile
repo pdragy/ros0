@@ -1,4 +1,4 @@
-ARG BASE_ROS_IMAGE=osrf/ros:humble-desktop-full
+ARG BASE_ROS_IMAGE=osrf/ros:humble-ros-base
 FROM ${BASE_ROS_IMAGE}
 RUN apt-get update && apt-get install -y checkinstall curl
 RUN echo "deb http://ros0-repo.s3.us-west-2.amazonaws.com/$(lsb_release -is | tr A-Z a-z) $(lsb_release -cs) main" \
