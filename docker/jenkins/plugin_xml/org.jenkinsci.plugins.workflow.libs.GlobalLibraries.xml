@@ -18,6 +18,10 @@
       <implicit>true</implicit>
       <allowVersionOverride>true</allowVersionOverride>
       <includeInChangesets>true</includeInChangesets>
+      <cachingConfiguration>
+        <refreshTimeMinutes>0</refreshTimeMinutes>
+        <excludedVersionsStr></excludedVersionsStr>
+      </cachingConfiguration>
     </org.jenkinsci.plugins.workflow.libs.LibraryConfiguration>
   </libraries>
 </org.jenkinsci.plugins.workflow.libs.GlobalLibraries>
