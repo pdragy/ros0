@@ -8,6 +8,7 @@ ros-humble-px4-msgs
 ros-humble-px4-offboard
 ros-hydro-descartes
 ros-hydro-motoman
+ros-hydro-staubli
 ros-indigo-abb-libegm
 ros-indigo-descartes
 ros-indigo-dnb-msgs
@@ -15,6 +16,7 @@ ros-indigo-kuka-experimental
 ros-indigo-motoman
 ros-indigo-px4-msgs
 ros-indigo-ros-opcua-communication
+ros-indigo-staubli
 ros-jazzy-abb-egm-rws-managers
 ros-jazzy-abb-libegm
 ros-jazzy-abb-librws
@@ -30,6 +32,7 @@ ros-kinetic-motoman
 ros-kinetic-px4-msgs
 ros-kinetic-px4-ros-com
 ros-kinetic-ros-opcua-communication
+ros-kinetic-staubli
 ros-melodic-abb-egm-rws-managers
 ros-melodic-abb-libegm
 ros-melodic-abb-librws
@@ -42,6 +45,7 @@ ros-melodic-motoman
 ros-melodic-px4-msgs
 ros-melodic-px4-ros-com
 ros-melodic-ros-opcua-communication
+ros-melodic-staubli
 ros-noetic-abb-egm-rws-managers
 ros-noetic-abb-libegm
 ros-noetic-abb-librws
@@ -54,3 +58,4 @@ ros-noetic-motoman
 ros-noetic-px4-msgs
 ros-noetic-px4-ros-com
 ros-noetic-ros-opcua-communication
+ros-noetic-staubli
