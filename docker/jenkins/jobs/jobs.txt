@@ -3,6 +3,8 @@ ros-humble-abb-libegm
 ros-humble-abb-librws
 ros-humble-abb-ros2
 ros-humble-abb-ros2-msgs
+ros-humble-crane-x7
+ros-humble-crane-x7-description
 ros-humble-drone-pose
 ros-humble-px4-msgs
 ros-humble-px4-offboard
@@ -22,6 +24,8 @@ ros-jazzy-abb-libegm
 ros-jazzy-abb-librws
 ros-jazzy-abb-ros2
 ros-jazzy-abb-ros2-msgs
+ros-jazzy-crane-x7
+ros-jazzy-crane-x7-description
 ros-jazzy-drone-pose
 ros-jazzy-px4-msgs
 ros-kinetic-abb-libegm
