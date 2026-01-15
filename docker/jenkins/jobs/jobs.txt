@@ -7,10 +7,12 @@ ros-humble-drone-pose
 ros-humble-px4-msgs
 ros-humble-px4-offboard
 ros-hydro-descartes
+ros-hydro-motoman
 ros-indigo-abb-libegm
 ros-indigo-descartes
 ros-indigo-dnb-msgs
 ros-indigo-kuka-experimental
+ros-indigo-motoman
 ros-indigo-px4-msgs
 ros-indigo-ros-opcua-communication
 ros-jazzy-abb-egm-rws-managers
@@ -24,6 +26,7 @@ ros-kinetic-abb-libegm
 ros-kinetic-descartes
 ros-kinetic-dnb-msgs
 ros-kinetic-kuka-experimental
+ros-kinetic-motoman
 ros-kinetic-px4-msgs
 ros-kinetic-px4-ros-com
 ros-kinetic-ros-opcua-communication
@@ -35,6 +38,7 @@ ros-melodic-depthcloud-encoder
 ros-melodic-descartes
 ros-melodic-dnb-msgs
 ros-melodic-kuka-experimental
+ros-melodic-motoman
 ros-melodic-px4-msgs
 ros-melodic-px4-ros-com
 ros-melodic-ros-opcua-communication
@@ -46,6 +50,7 @@ ros-noetic-depthcloud-encoder
 ros-noetic-descartes
 ros-noetic-dnb-msgs
 ros-noetic-kuka-experimental
+ros-noetic-motoman
 ros-noetic-px4-msgs
 ros-noetic-px4-ros-com
 ros-noetic-ros-opcua-communication
