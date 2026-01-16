@@ -33,6 +33,7 @@ ros-jazzy-px4-msgs
 ros-kinetic-abb-libegm
 ros-kinetic-descartes
 ros-kinetic-dnb-msgs
+ros-kinetic-khi-robot
 ros-kinetic-kuka-experimental
 ros-kinetic-motoman
 ros-kinetic-px4-msgs
@@ -47,6 +48,7 @@ ros-melodic-abb-robot-driver
 ros-melodic-depthcloud-encoder
 ros-melodic-descartes
 ros-melodic-dnb-msgs
+ros-melodic-khi-robot
 ros-melodic-kuka-experimental
 ros-melodic-motoman
 ros-melodic-px4-msgs
@@ -61,6 +63,7 @@ ros-noetic-abb-robot-driver
 ros-noetic-depthcloud-encoder
 ros-noetic-descartes
 ros-noetic-dnb-msgs
+ros-noetic-khi-robot
 ros-noetic-kuka-experimental
 ros-noetic-motoman
 ros-noetic-px4-msgs
