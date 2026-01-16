@@ -6,6 +6,7 @@ ros-humble-abb-ros2-msgs
 ros-humble-crane-x7
 ros-humble-crane-x7-description
 ros-humble-drone-pose
+ros-humble-khi-ros2
 ros-humble-px4-msgs
 ros-humble-px4-offboard
 ros-hydro-descartes
