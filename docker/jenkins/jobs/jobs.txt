@@ -6,7 +6,10 @@ ros-humble-abb-ros2-msgs
 ros-humble-crane-x7
 ros-humble-crane-x7-description
 ros-humble-drone-pose
+ros-humble-fri-client-sdk
 ros-humble-khi-ros2
+ros-humble-lbr-fri-idl
+ros-humble-lbr-fri-ros2-stack
 ros-humble-px4-msgs
 ros-humble-px4-offboard
 ros-hydro-descartes
@@ -30,6 +33,9 @@ ros-jazzy-abb-ros2-msgs
 ros-jazzy-crane-x7
 ros-jazzy-crane-x7-description
 ros-jazzy-drone-pose
+ros-jazzy-fri-client-sdk
+ros-jazzy-lbr-fri-idl
+ros-jazzy-lbr-fri-ros2-stack
 ros-jazzy-px4-msgs
 ros-kinetic-abb-libegm
 ros-kinetic-descartes
