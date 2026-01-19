@@ -7,9 +7,13 @@ ros-humble-crane-x7
 ros-humble-crane-x7-description
 ros-humble-drone-pose
 ros-humble-fri-client-sdk
+ros-humble-industrial-core
 ros-humble-khi-ros2
 ros-humble-lbr-fri-idl
 ros-humble-lbr-fri-ros2-stack
+ros-humble-motoman
+ros-humble-motoman-moveit-config
+ros-humble-motoros2-interfaces
 ros-humble-px4-msgs
 ros-humble-px4-offboard
 ros-hydro-descartes
@@ -34,8 +38,12 @@ ros-jazzy-crane-x7
 ros-jazzy-crane-x7-description
 ros-jazzy-drone-pose
 ros-jazzy-fri-client-sdk
+ros-jazzy-industrial-core
 ros-jazzy-lbr-fri-idl
 ros-jazzy-lbr-fri-ros2-stack
+ros-jazzy-motoman
+ros-jazzy-motoman-moveit-config
+ros-jazzy-motoros2-interfaces
 ros-jazzy-px4-msgs
 ros-kinetic-abb-libegm
 ros-kinetic-descartes
